@@ -1,0 +1,28 @@
+.form form{
+    align-items: center;
+    background-color: rgb(216, 216, 216);
+    border-radius: 4px;
+    margin: 12px 0;
+    padding: 24px;
+}
+
+.form input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+}
+.form button {
+    width: 100%;
+    background-color: rgb(116, 43, 185);
+    border-radius: 4px;
+    color: white;
+}
+
+.form button:active {
+    background-color: rgb(86, 22, 145);
+}
+
+.form h4{
+    color: red;
+}
